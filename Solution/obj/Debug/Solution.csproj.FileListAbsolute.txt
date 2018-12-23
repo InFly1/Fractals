@@ -1,0 +1,6 @@
+D:\2 курс\Компьютерная графика\6_25_fractals\Solution\bin\Debug\Solution.dll
+D:\2 курс\Компьютерная графика\6_25_fractals\Solution\bin\Debug\Solution.pdb
+D:\2 курс\Компьютерная графика\6_25_fractals\Solution\obj\Debug\Solution.csprojResolveAssemblyReference.cache
+D:\2 курс\Компьютерная графика\6_25_fractals\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+D:\2 курс\Компьютерная графика\6_25_fractals\Solution\obj\Debug\Solution.dll
+D:\2 курс\Компьютерная графика\6_25_fractals\Solution\obj\Debug\Solution.pdb

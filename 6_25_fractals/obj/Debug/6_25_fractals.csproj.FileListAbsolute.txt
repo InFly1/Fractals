@@ -1,0 +1,12 @@
+D:\2 курс\Компьютерная графика\6_25_fractals\6_25_fractals\bin\Debug\6_25_fractals.exe.config
+D:\2 курс\Компьютерная графика\6_25_fractals\6_25_fractals\bin\Debug\6_25_fractals.exe
+D:\2 курс\Компьютерная графика\6_25_fractals\6_25_fractals\bin\Debug\6_25_fractals.pdb
+D:\2 курс\Компьютерная графика\6_25_fractals\6_25_fractals\bin\Debug\Solution.dll
+D:\2 курс\Компьютерная графика\6_25_fractals\6_25_fractals\bin\Debug\Solution.pdb
+D:\2 курс\Компьютерная графика\6_25_fractals\6_25_fractals\obj\Debug\6_25_fractals.csprojResolveAssemblyReference.cache
+D:\2 курс\Компьютерная графика\6_25_fractals\6_25_fractals\obj\Debug\_6_25_fractals.Form1.resources
+D:\2 курс\Компьютерная графика\6_25_fractals\6_25_fractals\obj\Debug\_6_25_fractals.Properties.Resources.resources
+D:\2 курс\Компьютерная графика\6_25_fractals\6_25_fractals\obj\Debug\6_25_fractals.csproj.GenerateResource.Cache
+D:\2 курс\Компьютерная графика\6_25_fractals\6_25_fractals\obj\Debug\6_25_fractals.csproj.CoreCompileInputs.cache
+D:\2 курс\Компьютерная графика\6_25_fractals\6_25_fractals\obj\Debug\6_25_fractals.exe
+D:\2 курс\Компьютерная графика\6_25_fractals\6_25_fractals\obj\Debug\6_25_fractals.pdb
